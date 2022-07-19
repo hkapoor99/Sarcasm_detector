@@ -1,4 +1,5 @@
 # Sarcasm_detector
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNa4s0jCmSWI1T7Tp_FEYUmpzRRDISpZbSTdzx214Yztkf0uDV8p5B1sOkGRAin7VGPiE&usqp=CAU"/>
 
 ## Installations
  - NumPy
